@@ -1,4 +1,4 @@
- Sunilkumar Cheepuri | Azure Cloud Engineer
+# Sunilkumar Cheepuri | Azure Cloud Engineer #
  
 📧 Sunilkumar.cheepuri@gmail.com | 🌐 [linkedin.com/in/sunilkumar](https://www.linkedin.com/in/sunilkumar-cheepuri/)  | 
 💻 [github.com/sunilkumar-dev  ](https://github.com/SunilKumar-CH/Azure-Cloud-Engineer/edit/main/README.md)                  
@@ -35,5 +35,8 @@ Azure DevOps & Cloud (Azure)  | Cloud Infrastructure Management | CI/CD | Operat
 o	AZ-900/104/305 - Designing Microsoft Azure Infrastructure Solutions
 
 o	AZ-400: Designing and Implementing Microsoft DevOps Solutions
+
+<img width="739" height="395" alt="image" src="https://github.com/user-attachments/assets/e54509ad-bea1-4be2-b0b2-1bcd6b5e322f" />
+
 
 
