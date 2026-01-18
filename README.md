@@ -1,5 +1,7 @@
-                                          ***Azure Cloud Engineer and Cloud Automation Engineer***
-
+ Sunilkumar Cheepuri | Azure Cloud Engineer
+ 
+📧 Sunilkumar.cheepuri@gmail.com | 🌐 [linkedin.com/in/sunilkumar](https://www.linkedin.com/in/sunilkumar-cheepuri/)  | 
+💻 [github.com/sunilkumar-dev  ](https://github.com/SunilKumar-CH/Azure-Cloud-Engineer/edit/main/README.md)                  
 
 **PROFILE SUMMARY**
 
@@ -23,13 +25,15 @@
 
 **CORE COMPETENCIES**
 
-Azure DevOps & Cloud (Azure)  | Cloud Infrastructure Management 
-CI/CD
-Operations & Post Production Support	Build and Release Engineering
-Infrastructure Deployment
-ITSM
-Data Center Operations (VMWare)	Software Configuration Mgmt.
-Deployments Automation
-Requirement Gathering
-Scrum & Agile Methodology	
+Azure DevOps & Cloud (Azure)  | Cloud Infrastructure Management | CI/CD | Operations & Post Production Support	Build and| Release Engineering | Infrastructure Deployment | ITSM | Data Center Operations (VMWare)	Software Configuration Mgmt.| Deployments Automation | Requirement Gathering | Scrum & Agile Methodology	
+
+
+**CERTIFICATIONS**
+
+	Microsoft Azure Certification (Candidate ID: MS0618353015)
+
+o	AZ-900/104/305 - Designing Microsoft Azure Infrastructure Solutions
+
+o	AZ-400: Designing and Implementing Microsoft DevOps Solutions
+
 
