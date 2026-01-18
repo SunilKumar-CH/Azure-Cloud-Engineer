@@ -20,3 +20,16 @@
 	Established CI/CD pipelines using Azure DevOps for automated builds, tests & deployments of cloud-native applications
 
 	Efficient organizer, motivator, team player and a decisive leader with the capability to motivate teams to excel and win
+
+**CORE COMPETENCIES**
+
+Azure DevOps & Cloud (Azure)  | Cloud Infrastructure Management 
+CI/CD
+Operations & Post Production Support	Build and Release Engineering
+Infrastructure Deployment
+ITSM
+Data Center Operations (VMWare)	Software Configuration Mgmt.
+Deployments Automation
+Requirement Gathering
+Scrum & Agile Methodology	
+
