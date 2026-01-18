@@ -1,4 +1,4 @@
-                           ****Azure Cloud Engineer and Cloud Automation Engineer****
+                           *Azure Cloud Engineer and Cloud Automation Engineer*
 
 
 **PROFILE SUMMARY**
