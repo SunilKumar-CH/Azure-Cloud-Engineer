@@ -1,5 +1,8 @@
+                           **    Azure Cloud Engineer and Cloud Automation Engineer  **
+
 
 PROFILE SUMMARY
+
 	Experienced IT professional with nearly 11.4 years of rich experience in Azure Cloud Engineer and Cloud Automation Engineer, along with significant expertise in VMware infrastructure.
 	Expertise in designing & implementing Azure infrastructure solutions for various projects, including virtual networks, VMs, storage accounts and Azure Active Directory, Azure polices
 	Excellent aptitude of supporting the advancement of Azure DevOps, specifically continuous integration & delivery, working with different teams to establish & maintain tools / processes to increase the quality & reliability of test automation and reduce the manual processes 
